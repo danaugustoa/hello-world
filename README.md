@@ -2,3 +2,6 @@
 Mis primeros pasos en programación
 
 Soy Dan Alvarado, padre de 5 chichos y esposo de Karina Paz. Soy miembro de la Iglesia de Jesucristo de los santos de los últimos días.
+
+Me gustaría conocer tú experiencia.
+¿Por que elegistes programación? ¿Cuál es tu mkotivación?
